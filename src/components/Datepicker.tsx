@@ -1,6 +1,6 @@
-import * as React from 'react'
-import {DateInput, IDateInputProps} from './DateInput';
-import {Calendar, ICalendarProps} from './Calendar';
+import * as React from "react"
+import {DateInput, IDateInputProps} from "./DateInput";
+import {Calendar, ICalendarProps} from "./Calendar";
 import {useDatePicker} from "../hooks/useDatePicker";
 import {
     Popover,

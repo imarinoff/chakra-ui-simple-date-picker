@@ -1,4 +1,4 @@
-import * as React from 'react';
+import * as React from "react";
 import {Box, BoxProps, Button, HStack, SimpleGrid, SimpleGridProps, VStack, ButtonProps, StackProps} from "@chakra-ui/core"
 import {useCalendar, useDayProps} from "../hooks/useCalendar";
 
